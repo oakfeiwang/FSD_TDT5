@@ -22,7 +22,7 @@ There are six experiments in the paper - Exploring Online Novelty Detection Usin
 * `run_p2c_fsd_tfidf.py`
 * `run_p2c_fsd_word2vec.py`
 * `run_p2a_fsd_tfidf.py`
-* `run_p2a_fsd_word2vec.py'
+* `run_p2a_fsd_word2vec.py`
 
 The experiments can be run by 
 ```
